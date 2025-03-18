@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project.
+Open application , Accept the permission to location , access to the current city and show the weather of the city 🤷‍♂️🤷‍♂️
 
 ## Getting Started
 
